@@ -1,6 +1,13 @@
 # 🎬 Movie Recommender System
 
-A content-based movie recommendation system built using NLP, TF-IDF Vectorization, Cosine Similarity, Streamlit, and TMDB API.
+A content-based movie recommendation system built using ML, NLP, TF-IDF Vectorization, Cosine Similarity, Streamlit, and TMDB API.
+
+## 🚀 Live Demo
+
+[🎬 Try the Movie Recommender](https://movie-recommender-597fgqypxxcns2mmvpeaqf.streamlit.app/)
+
+## 📂 GitHub Repository
+[GitHub Repository](https://github.com/prachishr/movie-recommender)
 
 ## Features
 
@@ -12,6 +19,19 @@ A content-based movie recommendation system built using NLP, TF-IDF Vectorizatio
 * Top Rated Movies section
 * Modern Streamlit UI
 
+## 📸 Screenshots
+
+### Home Page
+
+![Home Page](images/home.png)
+
+### Search Results
+
+![Search Results](images/search.png)
+
+### Recommendations
+
+![Recommendations](images/recommendations.png)
 ## Technologies Used
 
 * Python
